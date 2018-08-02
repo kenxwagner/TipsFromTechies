@@ -1,8 +1,3 @@
-# TipsFromTechies
-
-
-
-
 <body>
 
 <table style="width:100%">
